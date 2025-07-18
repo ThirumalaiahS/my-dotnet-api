@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thiru\\My_Projects\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3552AF-CBBE-453D-86D7-D707C8A7932A}|API\\API.csproj|c:\\thiru\\my_projects\\api\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3552AF-CBBE-453D-86D7-D707C8A7932A}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C9CE3-E174-4411-86C6-D9AC0B7ECAEA}|Tests\\Tests.csproj|c:\\thiru\\my_projects\\api\\tests\\infrastructure_tests\\repositorynamingconventiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C9CE3-E174-4411-86C6-D9AC0B7ECAEA}|Tests\\Tests.csproj|solutionrelative:tests\\infrastructure_tests\\repositorynamingconventiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C9CE3-E174-4411-86C6-D9AC0B7ECAEA}|Tests\\Tests.csproj|c:\\thiru\\my_projects\\api\\tests\\infrastructure_tests\\servicesnamingconventiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C9CE3-E174-4411-86C6-D9AC0B7ECAEA}|Tests\\Tests.csproj|solutionrelative:tests\\infrastructure_tests\\servicesnamingconventiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|c:\\thiru\\my_projects\\api\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87EF7F-7378-4212-943E-A6B039767E21}|Infrastructure\\Infrastructure.csproj|c:\\thiru\\my_projects\\api\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E87EF7F-7378-4212-943E-A6B039767E21}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|c:\\thiru\\my_projects\\api\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C9CE3-E174-4411-86C6-D9AC0B7ECAEA}|Tests\\Tests.csproj|c:\\thiru\\my_projects\\api\\tests\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C9CE3-E174-4411-86C6-D9AC0B7ECAEA}|Tests\\Tests.csproj|solutionrelative:tests\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3552AF-CBBE-453D-86D7-D707C8A7932A}|API\\API.csproj|c:\\thiru\\my_projects\\api\\api\\app_start\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3552AF-CBBE-453D-86D7-D707C8A7932A}|API\\API.csproj|solutionrelative:api\\app_start\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3552AF-CBBE-453D-86D7-D707C8A7932A}|API\\API.csproj|c:\\thiru\\my_projects\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3552AF-CBBE-453D-86D7-D707C8A7932A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|c:\\thiru\\my_projects\\api\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B01C4FB-EC8A-4733-B6ED-20688EDA6CDC}|Domain\\Domain.csproj|c:\\thiru\\my_projects\\api\\domain\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B01C4FB-EC8A-4733-B6ED-20688EDA6CDC}|Domain\\Domain.csproj|solutionrelative:domain\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|c:\\thiru\\my_projects\\api\\application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212E38D1-153B-4EBB-8053-445C6994BBB2}|Application\\Application.csproj|solutionrelative:application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87EF7F-7378-4212-943E-A6B039767E21}|Infrastructure\\Infrastructure.csproj|c:\\thiru\\my_projects\\api\\infrastructure\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87EF7F-7378-4212-943E-A6B039767E21}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesNamingConventionTests.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Tests\\Infrastructure_Tests\\ServicesNamingConventionTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Infrastructure_Tests\\ServicesNamingConventionTests.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Tests\\Infrastructure_Tests\\ServicesNamingConventionTests.cs",
+              "RelativeToolTip": "Tests\\Infrastructure_Tests\\ServicesNamingConventionTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:05:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryNamingConventionTests.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Tests\\Infrastructure_Tests\\RepositoryNamingConventionTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Infrastructure_Tests\\RepositoryNamingConventionTests.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Tests\\Infrastructure_Tests\\RepositoryNamingConventionTests.cs",
+              "RelativeToolTip": "Tests\\Infrastructure_Tests\\RepositoryNamingConventionTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:05:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Domain\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Domain\\AssemblyReference.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Domain\\AssemblyReference.cs",
+              "RelativeToolTip": "Domain\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:55:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Application\\AssemblyReference.cs",
+              "RelativeToolTip": "Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:55:39.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Infrastructure\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AssemblyReference.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Infrastructure\\AssemblyReference.cs",
+              "RelativeToolTip": "Infrastructure\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:55:37.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:41:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T17:37:32.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T17:37:26.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:37:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\API\\App_Start\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "API\\App_Start\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\API\\App_Start\\ServiceConfiguration.cs",
+              "RelativeToolTip": "API\\App_Start\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:36:04.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:34:33.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Tests\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Tests\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:28:59.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Thiru\\My_Projects\\API\\Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Thiru\\My_Projects\\API\\Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:27:00.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
